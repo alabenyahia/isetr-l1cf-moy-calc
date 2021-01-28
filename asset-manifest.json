@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/isetr-l1cf-moy-calc/static/js/main.374c261a.chunk.js",
+    "main.js.map": "/isetr-l1cf-moy-calc/static/js/main.374c261a.chunk.js.map",
+    "runtime-main.js": "/isetr-l1cf-moy-calc/static/js/runtime-main.40a98c02.js",
+    "runtime-main.js.map": "/isetr-l1cf-moy-calc/static/js/runtime-main.40a98c02.js.map",
+    "static/js/2.16602d5a.chunk.js": "/isetr-l1cf-moy-calc/static/js/2.16602d5a.chunk.js",
+    "static/js/2.16602d5a.chunk.js.map": "/isetr-l1cf-moy-calc/static/js/2.16602d5a.chunk.js.map",
+    "index.html": "/isetr-l1cf-moy-calc/index.html",
+    "static/js/2.16602d5a.chunk.js.LICENSE.txt": "/isetr-l1cf-moy-calc/static/js/2.16602d5a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40a98c02.js",
+    "static/js/2.16602d5a.chunk.js",
+    "static/js/main.374c261a.chunk.js"
+  ]
+}
